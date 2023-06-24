@@ -1,6 +1,6 @@
 # Apache Kafka - Stock Market Simulated
 
-Technology used: *AWS (EC2, S3, Crawler, Amazon Athena), python
+Technology used: *AWS (EC2, S3, Crawler, Amazon Athena), python*
 
 
 ## Abstract
