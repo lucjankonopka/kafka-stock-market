@@ -22,6 +22,7 @@ Setup Kafka server on EC2 machine:
 Jupyter Notebooks with producer and consumer configurations:
 
 [*kafka-producer.ipynb*](https://github.com/lucjankonopka/kafka-stock-market/blob/main/kafka-producer.ipynb)
+
 [*kafka-consumer.ipynb*](https://github.com/lucjankonopka/kafka-stock-market/blob/main/kafka-consumer.ipynb)
 
 
